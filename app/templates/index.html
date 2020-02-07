@@ -1,6 +1,10 @@
 <html>
     <head>
-        <title>{{ title }} - Microblog</title>
+        {% if title %}
+        <title>{{ title }} - Home</title>
+        {% else %}
+        <title>Welcome to IDK</title>
+        {% endif %}
     </head>
     <body>
         <h1>Hello, {{ user.username }}!</h1>
