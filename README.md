@@ -1,2 +1,5 @@
-# Spike-1
-Usage of flask to make the backend and framework for a basic user login and profile implementation.  
+# Flask-Tutorial
+Learning flask for an upcoming project.
+
+tutorial:
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
